@@ -22,14 +22,14 @@
   "children": [
     {
       "en": {
-        "title": "YAML file to read",
-        "description": "YAML file to read",
+        "title": "Read YAML file",
+        "description": "Read YAML file",
         "title_options": null,
         "options": null
       },
       "es": {
-        "title": "Archivo YAML a leer",
-        "description": "Archivo YAML a leer",
+        "title": "Leer archivo YAML",
+        "description": "Leer archivo YAML",
         "title_options": null,
         "options": null
       },
