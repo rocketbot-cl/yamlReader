@@ -8,7 +8,7 @@
   "homepage": "http://rocketbot.co",
   "linux": true,
   "windows": true,
-  "mac": true,
+  "mac": false,
   "docker": true,
   "name": "yamlReader",
   "dependencies": {
@@ -78,7 +78,7 @@
       "group": "scripts",
       "linux": true,
       "windows": true,
-      "mac": true,
+      "mac": false,
       "docker": true
     }
   ]
