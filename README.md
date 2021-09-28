@@ -4,6 +4,9 @@ Module to interact with yaml files. You can now read yaml files.
 ## Commands
 <ul class="commands_readme">
     <li>Read yaml file</li>
+    <ul>
+        <li>Examples: config.yaml | init.yml</li>
+    </ul>
 </ul>
 
 
