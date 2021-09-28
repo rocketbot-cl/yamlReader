@@ -1,5 +1,5 @@
 # yamlReader
-Module to read yaml files.
+Module to interact with yaml files. You can now read yaml files.
 
 ## Commands
 <ul class="commands_readme">
