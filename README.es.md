@@ -1,20 +1,20 @@
 # yamlReader
   
-Module to interact with YAML files. You can now read yaml files.  
+Módulo para interactuar con archivos YAML. Ahora puedes leer archivos yaml.  
 
 *Read this in other languages: [English](README.md), [Español](README.es.md).*
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Rocketbot.  
 
 
 
 ## Overview
 
 
-1. Read YAML file  
-Read YAML file and store result in variable
+1. Leer archivo YAML  
+Leer archivo YAML y guardar resultado en variable 
 
 
 

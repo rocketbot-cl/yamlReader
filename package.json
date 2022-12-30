@@ -3,9 +3,9 @@
   "author": "Caleb Cipra",
   "description": "Module to interact with YAML files. You can now read yaml files.",
   "disclaimer": "THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.",
-  "version": "0.1",
+  "version": "1.0.1",
   "license": "MIT",
-  "homepage": "http://rocketbot.co",
+  "homepage": "http://rocketbot.com",
   "linux": true,
   "windows": true,
   "mac": false,
@@ -23,13 +23,13 @@
     {
       "en": {
         "title": "Read YAML file",
-        "description": "Read YAML file",
+        "description": "Read YAML file and store result in variable",
         "title_options": null,
         "options": null
       },
       "es": {
         "title": "Leer archivo YAML",
-        "description": "Leer archivo YAML",
+        "description": "Leer archivo YAML y guardar resultado en variable",
         "title_options": null,
         "options": null
       },
@@ -45,6 +45,10 @@
             "title": {
               "es": "Archivo YAML",
               "en": "YAML file"
+            },
+            "description": {
+              "es": "Ruta del archivo YAML a leer",
+              "en": "Path of YAML file to read"
             },
             "id": "yamlFilePath",
             "css": "col-md-12"
@@ -62,6 +66,10 @@
             "title": {
               "es": "Asignar a variable",
               "en": "Set to var"
+            },
+            "description": {
+              "es": "Variable donde se guardará el resultado",
+              "en": "Variable to store result"
             },
             "id": "result",
             "css": "col-md-6"
